@@ -262,6 +262,10 @@ Learning Full Stack Development 🚀
 * Environment variables
 * Authentication
 * Deployment
+* 
+## About This Project
+This repository is created by Gururaj to practice GitHub workflows and backend development.
+
 
 ---
  
